@@ -1,14 +1,16 @@
 # Facebook refresh url in sharing debugger 
 
-
-## About
-
+Reload cached data in facebook sharing debugger
 
 ## Install
 
+`composer require veneliniliev/facebook-sharing-debugger`
 
 ## Usage
 
+`use veneliniliev\FacebookSharingDebugger\FacebookSharingDebugger;`
+
+`$response = FacebookSharingDebugger::reload('http://example.com/page.html');`
 
 ### License
 
