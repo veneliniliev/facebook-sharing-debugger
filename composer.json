@@ -1,0 +1,20 @@
+{
+  "name": "veneliniliev/FacebookSharingDebugger",
+  "description": "Facebook Sharing Debugger",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Venelin Iliev",
+      "email": "venelin@provision.bg"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "veneliniliev\\FacebookSharingDebugger\\": "src",
+      "veneliniliev\\FacebookSharingDebugger\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": ">=5.6.4"
+  }
+}
