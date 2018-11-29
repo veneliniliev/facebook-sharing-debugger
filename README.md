@@ -4,4 +4,4 @@ Reload cached data in facebook sharing debugger
 
 # Documentation
 
-https://veneliniliev.com/docs/facebook-sharing-debugger/
+https://veneliniliev.com/docs/laravel-facebook-sharing-debugger/
